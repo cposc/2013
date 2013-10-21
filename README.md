@@ -11,3 +11,4 @@
 * Russel Pavlicek, [15 Years of Open Source](slides/CPOSC-15_Years_of_Open_Source.pdf)
 * Tyler Golden, [Drupal Performance](slides/Drupal Performance.pdf)
 * Sean Carpenter, [Beyond Heroku: Hosting Your Rails App Yourself](slides/Hosting Rails.key)
+* Hector Castro, [Throw Some Keys on It](https://speakerdeck.com/hectcastro/throw-some-keys-on-it)
