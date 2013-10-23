@@ -13,3 +13,8 @@
 * Sean Carpenter, [Beyond Heroku: Hosting Your Rails App Yourself](slides/Hosting Rails.key)
 * Hector Castro, [Throw Some Keys on It](https://speakerdeck.com/hectcastro/throw-some-keys-on-it)
 * Bob Igo, [Open Senses](http://bob.igo.name/?p=200)
+* Don Schenck, [Getting Started with OpenStack.NET](slides/Getting Started with OpenStack SDK v3.ppt)
+* Ryan Duff, [WP-CLI](slides/CPOSC13 - WP-CLI.key)
+* Jason Plum, [Your Right ARM](slides/Your Right ARM.pdf)
+* Jonathan Miller, [Have You Opened a Book Lately?](http://www.jmillville.com/project/cposc2013/)
+* Mike Barry, [Ruby Concurrency](slides/Ruby_Concurrency_CPOSC_2013.pdf)
